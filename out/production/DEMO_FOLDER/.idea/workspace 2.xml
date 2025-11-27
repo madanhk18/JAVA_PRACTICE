@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b70b68f-d175-4424-97ea-77b7eda778fc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MirrorMaze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/r9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlidingWindow/_01SW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlidingWindow/_02SW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlidingWindow/_03sw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SlidingWindow/_04SW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d157.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d158.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d160.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d161.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d162.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d164.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d167.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d168.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d170.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d171.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d172.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d173.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d174.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d175.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d176.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d177.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d180.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d181.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d182.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d183.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d184.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d185.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d186.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d189.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d190.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d191.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d192.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d193.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d194.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d195.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d196.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/d199.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d100.java" beforeDir="false" afterPath="$PROJECT_DIR$/d100.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d101.java" beforeDir="false" afterPath="$PROJECT_DIR$/d101.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d102.java" beforeDir="false" afterPath="$PROJECT_DIR$/d102.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d103.java" beforeDir="false" afterPath="$PROJECT_DIR$/d103.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d104.java" beforeDir="false" afterPath="$PROJECT_DIR$/d104.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d105.java" beforeDir="false" afterPath="$PROJECT_DIR$/d105.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d106.java" beforeDir="false" afterPath="$PROJECT_DIR$/d106.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d107.java" beforeDir="false" afterPath="$PROJECT_DIR$/d107.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d108.java" beforeDir="false" afterPath="$PROJECT_DIR$/d108.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d109.java" beforeDir="false" afterPath="$PROJECT_DIR$/d109.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d110.java" beforeDir="false" afterPath="$PROJECT_DIR$/d110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d111.java" beforeDir="false" afterPath="$PROJECT_DIR$/d111.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d112.java" beforeDir="false" afterPath="$PROJECT_DIR$/d112.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d113.java" beforeDir="false" afterPath="$PROJECT_DIR$/d113.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d114.java" beforeDir="false" afterPath="$PROJECT_DIR$/d114.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d115.java" beforeDir="false" afterPath="$PROJECT_DIR$/d115.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d116.java" beforeDir="false" afterPath="$PROJECT_DIR$/d116.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d117.java" beforeDir="false" afterPath="$PROJECT_DIR$/d117.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d118.java" beforeDir="false" afterPath="$PROJECT_DIR$/d118.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d119.java" beforeDir="false" afterPath="$PROJECT_DIR$/d119.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d121.java" beforeDir="false" afterPath="$PROJECT_DIR$/d121.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d122.java" beforeDir="false" afterPath="$PROJECT_DIR$/d122.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d123.java" beforeDir="false" afterPath="$PROJECT_DIR$/d123.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d124.java" beforeDir="false" afterPath="$PROJECT_DIR$/d124.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d125.java" beforeDir="false" afterPath="$PROJECT_DIR$/d125.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d126.java" beforeDir="false" afterPath="$PROJECT_DIR$/d126.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d127.java" beforeDir="false" afterPath="$PROJECT_DIR$/d127.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d128.java" beforeDir="false" afterPath="$PROJECT_DIR$/d128.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d129.java" beforeDir="false" afterPath="$PROJECT_DIR$/d129.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d130.java" beforeDir="false" afterPath="$PROJECT_DIR$/d130.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d131.java" beforeDir="false" afterPath="$PROJECT_DIR$/d131.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d132.java" beforeDir="false" afterPath="$PROJECT_DIR$/d132.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d133.java" beforeDir="false" afterPath="$PROJECT_DIR$/d133.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d134.java" beforeDir="false" afterPath="$PROJECT_DIR$/d134.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d135.java" beforeDir="false" afterPath="$PROJECT_DIR$/d135.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d136.java" beforeDir="false" afterPath="$PROJECT_DIR$/d136.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d137.java" beforeDir="false" afterPath="$PROJECT_DIR$/d137.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d138.java" beforeDir="false" afterPath="$PROJECT_DIR$/d138.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d139.java" beforeDir="false" afterPath="$PROJECT_DIR$/d139.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d140.java" beforeDir="false" afterPath="$PROJECT_DIR$/d140.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d141.java" beforeDir="false" afterPath="$PROJECT_DIR$/d141.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d142.java" beforeDir="false" afterPath="$PROJECT_DIR$/d142.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d143.java" beforeDir="false" afterPath="$PROJECT_DIR$/d143.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d144.java" beforeDir="false" afterPath="$PROJECT_DIR$/d144.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d145.java" beforeDir="false" afterPath="$PROJECT_DIR$/d145.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d146.java" beforeDir="false" afterPath="$PROJECT_DIR$/d146.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d147.java" beforeDir="false" afterPath="$PROJECT_DIR$/d147.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d148.java" beforeDir="false" afterPath="$PROJECT_DIR$/d148.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d149.java" beforeDir="false" afterPath="$PROJECT_DIR$/d149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d150.java" beforeDir="false" afterPath="$PROJECT_DIR$/d150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d151.java" beforeDir="false" afterPath="$PROJECT_DIR$/d151.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d152.java" beforeDir="false" afterPath="$PROJECT_DIR$/d152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d153.java" beforeDir="false" afterPath="$PROJECT_DIR$/d153.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d154.java" beforeDir="false" afterPath="$PROJECT_DIR$/d154.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d155.java" beforeDir="false" afterPath="$PROJECT_DIR$/d155.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d156.java" beforeDir="false" afterPath="$PROJECT_DIR$/d156.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d88.java" beforeDir="false" afterPath="$PROJECT_DIR$/d88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d89.java" beforeDir="false" afterPath="$PROJECT_DIR$/d89.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d90.java" beforeDir="false" afterPath="$PROJECT_DIR$/d90.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d91.java" beforeDir="false" afterPath="$PROJECT_DIR$/d91.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d92.java" beforeDir="false" afterPath="$PROJECT_DIR$/d92.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d93.java" beforeDir="false" afterPath="$PROJECT_DIR$/d93.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d94.java" beforeDir="false" afterPath="$PROJECT_DIR$/d94.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d95.java" beforeDir="false" afterPath="$PROJECT_DIR$/d95.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d96.java" beforeDir="false" afterPath="$PROJECT_DIR$/d96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d97.java" beforeDir="false" afterPath="$PROJECT_DIR$/d97.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d98.java" beforeDir="false" afterPath="$PROJECT_DIR$/d98.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/d99.java" beforeDir="false" afterPath="$PROJECT_DIR$/d99.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/d179.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2vt9D9xjnIFW6Ca5BcNkbaKIoFh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MirrorMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MoveZero.executor&quot;: &quot;Run&quot;,
+    &quot;Application._01SW.executor&quot;: &quot;Run&quot;,
+    &quot;Application._02SW.executor&quot;: &quot;Run&quot;,
+    &quot;Application._03sw.executor&quot;: &quot;Run&quot;,
+    &quot;Application._04SW.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d100.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d101.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d102.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d103.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d104.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d105.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d106.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d107.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d108.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d109.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d110.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d111.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d112.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d113.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d114.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d115.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d116.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d117.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d118.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d119.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d120.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d121.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d122.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d123.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d124.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d125.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d126.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d127.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d128.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d129.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d130.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d131.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d132.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d133 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.d133.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d134.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d135.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d136.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d137.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d138 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.d138.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d139.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d140.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d141.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d142.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d143.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d144.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d145.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d146.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d147.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d148.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d149.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d150.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d151.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d152.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d153.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d154.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d155.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d156.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d157.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d158.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d160.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d161.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d162.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d163.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d164.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d167.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d168.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d169.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d170.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d171.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d172.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d173 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.d173 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.d173 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.d173.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d174.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d175.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d176.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d177.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d178.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d179.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d180.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d181.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d182.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d183.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d184.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d185.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d186.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d187.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d190.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d191.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d192.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d193.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d194.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d195.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d196.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d197.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d198.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d199.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d81.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d82.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d83.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d84.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.d85.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d86.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d88.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d89.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d90.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d91.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d92.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d93.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d94.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d95.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d96.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d97.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d98.executor&quot;: &quot;Run&quot;,
+    &quot;Application.d99.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo10.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo11LS.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo12.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo14.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo15 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo16.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo17.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo33.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.demo35.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.demo36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo37.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo38.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.demo39.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo40.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo46.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo47.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo48.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo49 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo50.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.demo51.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo52.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo53.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo54.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo55.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo57.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo58.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo59.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo60.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo61.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo62.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo63.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo64.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo65.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo66.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo67.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo68.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo69.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.demo7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo70.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo71.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo72.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo73.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo74.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo75.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo76.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo77.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo78.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo80.executor&quot;: &quot;Run&quot;,
+    &quot;Application.demo9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r4.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r5.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r6.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r7.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r8.executor&quot;: &quot;Run&quot;,
+    &quot;Application.r9.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/madanhk/Documents/JAVA/DEMO_FOLDER&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.d200">
+    <configuration name="d196" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d196" />
+      <module name="DEMO_FOLDER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d197" />
+      <module name="DEMO_FOLDER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d198" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d198" />
+      <module name="DEMO_FOLDER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d199" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d199" />
+      <module name="DEMO_FOLDER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="d200" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d200" />
+      <module name="DEMO_FOLDER" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.d200" />
+        <item itemvalue="Application.d199" />
+        <item itemvalue="Application.d198" />
+        <item itemvalue="Application.d197" />
+        <item itemvalue="Application.d196" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b70b68f-d175-4424-97ea-77b7eda778fc" name="Changes" comment="" />
+      <created>1744953380069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744953380069</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/demo15.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Demo.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo18.java</url>
+          <line>1</line>
+          <properties class="demo18" method="Pattern">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo20.java</url>
+          <line>1</line>
+          <properties class="demo20" method="insertAtPosition">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo14.java</url>
+          <line>11</line>
+          <properties class="demo14" method="convertionLexical">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo25.java</url>
+          <line>1</line>
+          <properties class="demo25" method="UpperBound">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo26.java</url>
+          <line>1</line>
+          <properties class="demo26" method="insertAtPosition">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo29.java</url>
+          <line>20</line>
+          <properties class="demo29" method="upbound">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo35.java</url>
+          <line>1</line>
+          <properties class="demo35" method="firstandLast">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo38.java</url>
+          <line>1</line>
+          <properties class="demo38" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo39.java</url>
+          <line>1</line>
+          <properties class="demo39" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo46.java</url>
+          <line>1</line>
+          <properties class="demo46" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo58.java</url>
+          <line>3</line>
+          <properties class="demo58" method="findDuplicate">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo59.java</url>
+          <line>6</line>
+          <properties class="demo59" method="fetchAllPalindro">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo65.java</url>
+          <line>1</line>
+          <properties class="demo65" method="productExceptSelf">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo69.java</url>
+          <line>1</line>
+          <properties class="demo69" method="maxProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/demo70.java</url>
+          <line>1</line>
+          <properties class="demo70" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d84.java</url>
+          <line>1</line>
+          <properties class="d84" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d83.java</url>
+          <line>1</line>
+          <properties class="d83" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d100.java</url>
+          <line>7</line>
+          <properties class="d100" method="LongestWithout">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d106.java</url>
+          <line>1</line>
+          <properties class="d106" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d105.java</url>
+          <line>6</line>
+          <properties class="d105" method="removeElement">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d113.java</url>
+          <line>3</line>
+          <properties class="d113" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d124.java</url>
+          <line>8</line>
+          <properties class="d124" method="repeatedOrNot">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d128.java</url>
+          <line>17</line>
+          <properties class="d128">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d131.java</url>
+          <line>1</line>
+          <properties class="d131" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d134.java</url>
+          <line>7</line>
+          <properties class="d134" method="getOutput">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d140.java</url>
+          <line>4</line>
+          <properties class="d140" method="findSubsequences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d141.java</url>
+          <line>16</line>
+          <properties class="d141" method="generateAllSubsequences">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d133.java</url>
+          <line>155</line>
+          <properties class="d133" method="duplicateRemove">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d146.java</url>
+          <line>5</line>
+          <properties class="d146" method="duplicate2">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d148.java</url>
+          <line>6</line>
+          <properties class="d148" method="checkPowerOf3">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d152.java</url>
+          <line>9</line>
+          <properties class="d152" method="fetch2DArray">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d156.java</url>
+          <line>9</line>
+          <properties class="d156" method="removeDupli">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d160.java</url>
+          <line>8</line>
+          <properties class="d160" method="sumOfBeauty">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d160.java</url>
+          <line>17</line>
+          <properties class="d160" method="function">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d161.java</url>
+          <line>5</line>
+          <properties class="d161" method="beautySum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/SlidingWindow/_02SW.java</url>
+          <line>13</line>
+          <properties class="SlidingWindow._02SW" method="findFirstNeg">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d172.java</url>
+          <line>23</line>
+          <properties class="d172" method="fun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/d175.java</url>
+          <line>11</line>
+          <properties class="d175" method="findTheNtxGreator">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

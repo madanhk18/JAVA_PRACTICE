@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class NidhisConstruction {
+public class NidhisTCS {
     // Directions as coordinate changes
     static int[][] Direcs = {
             {0, 1},   // top
